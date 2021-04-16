@@ -1,0 +1,504 @@
+{
+    "addresses" : [
+        {
+          "Id": "e2918b19-7302-4be5-970d-2bc43a96f5ce",
+          "Country__c": "Cambodia",
+          "Address__c": "6845 Alanis Groves",
+          "Postal_Code__c": "85043",
+          "Map_Iframe_Code__c": [
+            "-21.7330",
+            "-141.0529"
+          ],
+          "City__c": "North Phoebeton"
+        },
+        {
+          "Id": "6f7df40e-f07a-4ee6-bd2a-78e8a769034b",
+          "Country__c": "Guinea-Bissau",
+          "Address__c": "8531 Clay Turnpike",
+          "Postal_Code__c": "58777-4348",
+          "Map_Iframe_Code__c": [
+            "-37.4781",
+            "79.8430"
+          ],
+          "City__c": "MacGyvertown"
+        }
+      ],
+    "blogs" : [
+        {
+          "Id": "7b673113-3d6c-4d92-a4e4-4fd41b347b0a",
+          "Blog_Link__c": "blog/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Written_By__c": "Dwight Jacobi",
+          "Blog_Link_Spanish__c": "blogspanish/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Internal_Link_Spanish__c": null,
+          "Category_Spanish__c": "Karson",
+          "Description_Spanish__c": "I'll hack the optical GB card, that should microchip the PNG program!",
+          "Title_Spanish__c": "Product Optimization Consultant",
+          "Internal_Link__c": null,
+          "Category__c": "Bethel",
+          "Contact__r": {
+            "Name": "Andy"
+          },
+          "CreatedById": "2147f4f9-fa98-4129-b3ff-6a930a410d8a",
+          "Date_Created__c": "2020-09-30T10:57:43.227Z",
+          "Description__c": "On March 8th we celebrate International Women’s Day, a moment to celebrate the achievements of women and their contributions to society. And while it’s important to honor the figures that led and continue to lead the change for women’s rights, it’s a...",
+          "Image_ID__c": "fd343a50-cc76-4855-a58d-cbce5fa68f97",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000L6COWQA3",
+          "LastModifiedById": "05162c95-16fa-4ee4-878b-d3b900855a4f",
+          "Title__c": "Gender Diversity in Tech - How we move the needle forward",
+          "Name": "International Operations Liaison",
+          "Content__c": "Excepturi quasi minus quos perferendis dolores optio enim. Et facilis temporibus harum in vel exercitationem a earum et. Quod ipsum blanditiis consectetur est adipisci voluptatibus minus. Et laboriosam voluptas error repudiandae quia ut saepe aut voluptates. Nostrum neque ad voluptate.\n \rEsse quia laboriosam dolorum provident hic vero possimus. Non est exercitationem ducimus. Eligendi ut saepe numquam. Minus laborum labore repellendus dolores. Esse tempora molestiae illo laudantium corporis molestiae quasi unde. Fuga dolor aut qui eos.\n \rOccaecati magni sit neque illum quo nulla. Quam dolores molestiae est ut exercitationem consequatur suscipit. Nostrum qui est quo ut provident. Repellat laboriosam fugiat quaerat qui aut a quam. Debitis corrupti omnis quod."
+        },
+        {
+          "Id": "1544b545-5cf0-4f7e-aa5a-b62cc3fc6425",
+          "Blog_Link__c": "blog/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Written_By__c": "Lilian Kautzer",
+          "Blog_Link_Spanish__c": "blogspanish/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Internal_Link_Spanish__c": null,
+          "Category_Spanish__c": "Gregoria",
+          "Description_Spanish__c": "generating the capacitor won't do anything, we need to parse the wireless GB matrix!",
+          "Title_Spanish__c": "Internal Interactions Technician",
+          "Internal_Link__c": null,
+          "Category__c": "Karli",
+          "Contact__r": {
+            "Name": "Brando"
+          },
+          "CreatedById": "116491c4-b305-4062-b558-b13402bd1b0d",
+          "Date_Created__c": "2021-02-06T19:33:30.046Z",
+          "Description__c": "You don’t commonly equate IT systems with music, either the composition or the individual’s components of it. Two distinct aspects of human creativity that we utilize as tools (sometimes). As an IT professional, I like to take time in my day to play ...",
+          "Image_ID__c": "eea71a9a-dfde-471d-9975-38f400665215",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000L3mTXQAZ",
+          "LastModifiedById": "d3e8a8bd-04e5-445f-bea8-6c51ecb89e58",
+          "Title__c": "What Can Music Teach Us About Integrations?",
+          "Name": "Principal Security Supervisor",
+          "Content__c": "Cumque praesentium eveniet est. Natus non qui. Nobis quia ut omnis temporibus expedita quo quod. Occaecati dicta quam eos exercitationem. Quia tempore sint eius delectus.\n \rVoluptatibus vero ad est nostrum tempora deleniti. Hic voluptatem est reiciendis quos. Sit saepe alias voluptas commodi aut neque dolores et quis. Ratione fugit autem.\n \rSed tempora unde repellat inventore. Pariatur ut dolor et eaque vitae porro in sit. Fuga recusandae cum quaerat distinctio deleniti ipsa. Quo aut aut vitae perspiciatis voluptas tenetur. Velit dicta quaerat dolores voluptas minima est. Repudiandae explicabo et consequatur neque facilis impedit."
+        },
+        {
+          "Id": "48e772c1-c9ed-4e76-8daf-01daf3cd9470",
+          "Blog_Link__c": "blog/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Written_By__c": "Sibyl Hagenes",
+          "Blog_Link_Spanish__c": "blogspanish/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Internal_Link_Spanish__c": null,
+          "Category_Spanish__c": "Xzavier",
+          "Description_Spanish__c": "You can't input the microchip without navigating the redundant ADP bus!",
+          "Title_Spanish__c": "Chief Web Analyst",
+          "Internal_Link__c": null,
+          "Category__c": "Caden",
+          "Contact__r": {
+            "Name": "Edwardo"
+          },
+          "CreatedById": "f2f1134b-d9ea-4387-bf5b-e78c893e294c",
+          "Date_Created__c": "2020-08-01T18:24:28.463Z",
+          "Description__c": "Those of us who have been in the software development world for years know of the transformation the tools we use have undergone. Remembering the passage between versioning systems such as Subversion, Mercurial, and finally GIT with the understanding...",
+          "Image_ID__c": "c2a5c3d1-1c0f-4d5e-84b2-d3a632776c7d",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000JgXbdQAF",
+          "LastModifiedById": "b985d2b8-e00d-41a1-bcf2-e9b1a911cc3b",
+          "Title__c": "Get to know the DevOps Best Practices",
+          "Name": "Product Group Manager",
+          "Content__c": "Nisi dolores laudantium maiores impedit. Animi quaerat qui totam velit optio repudiandae dolore. Est voluptas rerum rerum eum totam qui suscipit magnam dicta.\n \rTotam nobis suscipit earum quibusdam unde est ut voluptas assumenda. Non aut expedita laborum. In quisquam eos nesciunt sint in. Aut itaque ut.\n \rDoloribus adipisci nisi omnis minima ut id. Est omnis quas tempore. Eius alias commodi aut sed quis. Magnam nesciunt quia et dolore harum dolorem qui. Neque quo omnis cupiditate."
+        },
+        {
+          "Id": "c18f5348-e1e2-4fbb-a344-e82dce69b15c",
+          "Blog_Link__c": "blog/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Written_By__c": "Lavinia Hessel",
+          "Blog_Link_Spanish__c": "blogspanish/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Internal_Link_Spanish__c": null,
+          "Category_Spanish__c": "Eleonore",
+          "Description_Spanish__c": "The RAM monitor is down, program the virtual application so we can index the GB pixel!",
+          "Title_Spanish__c": "Direct Solutions Orchestrator",
+          "Internal_Link__c": null,
+          "Category__c": "Percival",
+          "Contact__r": {
+            "Name": "Foster"
+          },
+          "CreatedById": "a566a13d-8590-4551-92db-14b19a5b6d80",
+          "Date_Created__c": "2020-05-18T20:45:11.023Z",
+          "Description__c": "SDocs is an app-exchange package entirely built in the Salesforce platform, generating about 151,744 documents per day. The software is the option for the healthcare industry due to two main benefits:It’s SecureIt’s fast S-Docs in the Healthcare Indu...",
+          "Image_ID__c": "e3341fb8-e87d-4c11-8e7c-189f814a5ce0",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I000007BcIp",
+          "LastModifiedById": "f9323928-7799-4f2b-8ff3-9de4d4996095",
+          "Title__c": "Why S-Docs Makes Healthcare Documentation Processes Faster and Secure",
+          "Name": "Product Web Orchestrator",
+          "Content__c": "Et maxime qui esse soluta et alias reprehenderit atque libero. Enim est ab numquam ut nihil expedita ipsam nam. Doloribus deleniti eveniet possimus consequuntur cum ipsam libero. Voluptatem eos corporis doloremque neque. Porro ratione at hic earum. Sit quia aut impedit qui dicta.\n \rQui reiciendis quo voluptas doloremque dolore et veniam. Perspiciatis quis cupiditate doloribus similique ea molestiae reprehenderit magnam. Et dignissimos sed molestiae assumenda. Deserunt sed in commodi voluptate et sit optio. Et quia quas qui nihil dicta porro.\n \rEt quia alias voluptate non fugiat. Accusamus blanditiis magnam at inventore suscipit et voluptas iste. Quidem laboriosam magnam modi. Maiores possimus ut autem qui in et incidunt corporis. Nihil eos rerum."
+        },
+        {
+          "Id": "80562c45-7517-4c8c-b7ac-31bf24606652",
+          "Blog_Link__c": "blog/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Written_By__c": "Fanny Pagac",
+          "Blog_Link_Spanish__c": "blogspanish/function () {\n      var RFC4122_TEMPLATE = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx';\n      var replacePlaceholders = function (placeholder) {\n          var random = faker.random.number({ min: 0, max: 15 });\n          var value = placeholder == 'x' ? random : (random &0x3 | 0x8);\n          return value.toString(16);\n      };\n      return RFC4122_TEMPLATE.replace(/[xy]/g, replacePlaceholders);\n  }",
+          "Internal_Link_Spanish__c": null,
+          "Category_Spanish__c": "Osvaldo",
+          "Description_Spanish__c": "Use the primary SMS monitor, then you can calculate the auxiliary alarm!",
+          "Title_Spanish__c": "National Assurance Planner",
+          "Internal_Link__c": null,
+          "Category__c": "Camylle",
+          "Contact__r": {
+            "Name": "May"
+          },
+          "CreatedById": "b95441a7-a896-4bdd-ae75-97750940406d",
+          "Date_Created__c": "2020-05-03T20:50:43.148Z",
+          "Description__c": "Digital transformation is happening all over the globe today and Latin America is no exception to this momentum. This region of the world continues to grow and is currently a technological hub for innovation and production at an increasing rate throu...",
+          "Image_ID__c": "9a2fd6fc-c080-467c-b3df-88d36da76e68",
+          "Image_URL__c": "https://www.ennube.solutions//sfc/servlet.shepherd/version/download/0681I00000AXFsl",
+          "LastModifiedById": "559ed00a-cdc1-43bc-828b-18609f4d95ec",
+          "Title__c": "WHY DIGITAL TRANSFORMATION IN LATIN AMERICAN COUNTRIES IS PROFITABLE FOR YOUR BUSINESS?",
+          "Name": "Legacy Intranet Liaison",
+          "Content__c": "Veritatis et autem est. Nisi nesciunt incidunt. Mollitia error et nihil. Quia est voluptas harum natus non. Incidunt et est eum cum autem corrupti. Eum voluptates aut eaque delectus adipisci qui et quis ut.\n \rMolestiae culpa aliquid omnis officiis et aperiam qui numquam. Reiciendis saepe debitis eos distinctio assumenda qui est explicabo reiciendis. Odit quod reiciendis mollitia et. Quam voluptatem facere adipisci quod dolorem totam.\n \rAspernatur delectus odit ad saepe harum dicta suscipit dolor. Quidem at est quis a sunt. Non voluptate consequatur quae fugit. Sit eligendi aliquam eveniet ducimus culpa distinctio. Quisquam officiis aperiam temporibus."
+        }
+      ],
+    "careers" : [
+        {
+          "Id": "bac6a6c4-f35d-4acd-8335-a5f1ec61e561",
+          "Career_Link__c": "http://murray.net",
+          "Internal_Link__c": "http://milo.org",
+          "Category__c": "Internal Functionality Analyst",
+          "Category_Spanish__c": "Lead Usability Specialist",
+          "Short_Description__c": "You can't override the alarm without calculating the open-source THX port!",
+          "Position__c": "Central Security Director",
+          "Description__c": "bypassing the circuit won't do anything, we need to quantify the open-source JSON bus!",
+          "Career_Link_Spanish__c": "https://rico.info",
+          "Internal_Link_Spanish__c": "https://santiago.info",
+          "Short_Description_Spanish__c": "The XML pixel is down, input the multi-byte card so we can back up the XSS interface!",
+          "Position_Spanish__c": "Legacy Research Consultant",
+          "Description_Spanish__c": "Principal Group Coordinator",
+          "Location__c": "Stehrport",
+          "Location_Spanish__c": "Brandynport"
+        },
+        {
+          "Id": "fbeafa63-6e7c-42de-b1de-de70086317c6",
+          "Career_Link__c": "http://dorthy.name",
+          "Internal_Link__c": "https://finn.info",
+          "Category__c": "Global Security Director",
+          "Category_Spanish__c": "Dynamic Usability Designer",
+          "Short_Description__c": "You can't index the alarm without generating the haptic SQL transmitter!",
+          "Position__c": "District Mobility Agent",
+          "Description__c": "Try to synthesize the SMS driver, maybe it will copy the mobile driver!",
+          "Career_Link_Spanish__c": "https://marlen.org",
+          "Internal_Link_Spanish__c": "http://dorcas.org",
+          "Short_Description_Spanish__c": "If we connect the alarm, we can get to the USB protocol through the neural FTP matrix!",
+          "Position_Spanish__c": "Corporate Marketing Producer",
+          "Description_Spanish__c": "International Integration Analyst",
+          "Location__c": "Olsonland",
+          "Location_Spanish__c": "Metzborough"
+        },
+        {
+          "Id": "e4d888e9-fe13-49c9-9034-aa6ed66bb034",
+          "Career_Link__c": "http://rosa.biz",
+          "Internal_Link__c": "http://garth.com",
+          "Category__c": "International Group Coordinator",
+          "Category_Spanish__c": "Product Integration Planner",
+          "Short_Description__c": "calculating the alarm won't do anything, we need to index the optical ADP port!",
+          "Position__c": "Chief Data Liaison",
+          "Description__c": "The PCI firewall is down, bypass the open-source interface so we can quantify the RAM card!",
+          "Career_Link_Spanish__c": "http://beth.name",
+          "Internal_Link_Spanish__c": "http://elmer.com",
+          "Short_Description_Spanish__c": "We need to bypass the solid state AGP driver!",
+          "Position_Spanish__c": "Regional Interactions Strategist",
+          "Description_Spanish__c": "National Operations Manager",
+          "Location__c": "Port Felipe",
+          "Location_Spanish__c": "Hellerfurt"
+        },
+        {
+          "Id": "86a62104-b30d-4e19-aa67-b83bc09ad0f5",
+          "Career_Link__c": "https://anderson.net",
+          "Internal_Link__c": "http://aurelia.biz",
+          "Category__c": "Forward Interactions Facilitator",
+          "Category_Spanish__c": "Customer Mobility Liaison",
+          "Short_Description__c": "You can't quantify the bus without programming the redundant AGP circuit!",
+          "Position__c": "National Accounts Strategist",
+          "Description__c": "We need to transmit the solid state XSS alarm!",
+          "Career_Link_Spanish__c": "http://robin.name",
+          "Internal_Link_Spanish__c": "https://yasmin.info",
+          "Short_Description_Spanish__c": "I'll reboot the optical COM program, that should circuit the COM capacitor!",
+          "Position_Spanish__c": "Legacy Factors Technician",
+          "Description_Spanish__c": "International Brand Designer",
+          "Location__c": "East Jana",
+          "Location_Spanish__c": "West Erickton"
+        },
+        {
+          "Id": "927219bb-6b47-4ca6-bf05-f931220aa79b",
+          "Career_Link__c": "https://sincere.name",
+          "Internal_Link__c": "http://brayan.org",
+          "Category__c": "Legacy Assurance Officer",
+          "Category_Spanish__c": "Customer Markets Consultant",
+          "Short_Description__c": "I'll transmit the open-source SDD interface, that should application the GB panel!",
+          "Position__c": "Corporate Paradigm Producer",
+          "Description__c": "programming the monitor won't do anything, we need to input the bluetooth XSS protocol!",
+          "Career_Link_Spanish__c": "https://meghan.com",
+          "Internal_Link_Spanish__c": "https://carmel.biz",
+          "Short_Description_Spanish__c": "Use the virtual TCP microchip, then you can compress the cross-platform interface!",
+          "Position_Spanish__c": "Principal Identity Consultant",
+          "Description_Spanish__c": "Internal Operations Architect",
+          "Location__c": "Effertzton",
+          "Location_Spanish__c": "South Shanny"
+        },
+        {
+          "Id": "d2b66fe3-a666-4ee6-a409-21cd4690ac68",
+          "Career_Link__c": "https://ivy.net",
+          "Internal_Link__c": "http://brent.name",
+          "Category__c": "Future Integration Planner",
+          "Category_Spanish__c": "Forward Brand Planner",
+          "Short_Description__c": "Use the open-source JBOD driver, then you can navigate the solid state protocol!",
+          "Position__c": "Central Brand Administrator",
+          "Description__c": "indexing the sensor won't do anything, we need to program the redundant SDD firewall!",
+          "Career_Link_Spanish__c": "https://maddison.biz",
+          "Internal_Link_Spanish__c": "http://marian.org",
+          "Short_Description_Spanish__c": "The AGP bus is down, override the neural capacitor so we can compress the SQL protocol!",
+          "Position_Spanish__c": "Direct Infrastructure Specialist",
+          "Description_Spanish__c": "Corporate Program Supervisor",
+          "Location__c": "New Dominiquechester",
+          "Location_Spanish__c": "Billytown"
+        },
+        {
+          "Id": "998cf5f5-5fb7-42a4-bcde-eaddb5abd60d",
+          "Career_Link__c": "https://zoila.name",
+          "Internal_Link__c": "http://rhiannon.name",
+          "Category__c": "Product Accounts Manager",
+          "Category_Spanish__c": "Forward Brand Specialist",
+          "Short_Description__c": "If we hack the feed, we can get to the AGP transmitter through the 1080p THX program!",
+          "Position__c": "Regional Markets Director",
+          "Description__c": "The XSS firewall is down, transmit the primary port so we can hack the SDD microchip!",
+          "Career_Link_Spanish__c": "http://jabari.biz",
+          "Internal_Link_Spanish__c": "https://garnet.com",
+          "Short_Description_Spanish__c": "Use the multi-byte RSS circuit, then you can compress the redundant driver!",
+          "Position_Spanish__c": "Forward Tactics Engineer",
+          "Description_Spanish__c": "Principal Operations Director",
+          "Location__c": "New Lamontberg",
+          "Location_Spanish__c": "Chaunceyfort"
+        },
+        {
+          "Id": "54cece03-ea22-4079-afcb-2150c6b82f9c",
+          "Career_Link__c": "http://floy.org",
+          "Internal_Link__c": "http://marcel.net",
+          "Category__c": "District Communications Consultant",
+          "Category_Spanish__c": "Future Solutions Engineer",
+          "Short_Description__c": "Use the wireless HTTP circuit, then you can back up the digital panel!",
+          "Position__c": "District Optimization Producer",
+          "Description__c": "The XSS panel is down, copy the 1080p hard drive so we can compress the SQL circuit!",
+          "Career_Link_Spanish__c": "http://fernando.biz",
+          "Internal_Link_Spanish__c": "https://clint.name",
+          "Short_Description_Spanish__c": "If we override the bus, we can get to the THX system through the mobile PCI transmitter!",
+          "Position_Spanish__c": "Senior Interactions Planner",
+          "Description_Spanish__c": "Corporate Usability Liaison",
+          "Location__c": "Terrancemouth",
+          "Location_Spanish__c": "Larkinberg"
+        },
+        {
+          "Id": "de907f6f-abdb-4c0d-ba9c-98e8823499a1",
+          "Career_Link__c": "https://deondre.name",
+          "Internal_Link__c": "https://travon.com",
+          "Category__c": "Principal Tactics Technician",
+          "Category_Spanish__c": "Customer Creative Executive",
+          "Short_Description__c": "We need to reboot the mobile HDD microchip!",
+          "Position__c": "National Group Liaison",
+          "Description__c": "You can't hack the matrix without compressing the redundant JSON monitor!",
+          "Career_Link_Spanish__c": "https://darius.org",
+          "Internal_Link_Spanish__c": "http://dariana.com",
+          "Short_Description_Spanish__c": "Use the solid state FTP application, then you can synthesize the digital program!",
+          "Position_Spanish__c": "Dynamic Assurance Manager",
+          "Description_Spanish__c": "International Communications Associate",
+          "Location__c": "North Colleentown",
+          "Location_Spanish__c": "New Mozell"
+        },
+        {
+          "Id": "47204f27-e2fb-4e16-a4a7-663211c636c7",
+          "Career_Link__c": "http://robyn.com",
+          "Internal_Link__c": "https://roberta.biz",
+          "Category__c": "Direct Brand Manager",
+          "Category_Spanish__c": "National Communications Orchestrator",
+          "Short_Description__c": "Use the mobile SCSI bus, then you can override the optical interface!",
+          "Position__c": "Legacy Usability Analyst",
+          "Description__c": "The SAS card is down, parse the wireless system so we can parse the EXE feed!",
+          "Career_Link_Spanish__c": "http://nichole.biz",
+          "Internal_Link_Spanish__c": "http://claudia.biz",
+          "Short_Description_Spanish__c": "Use the primary PCI matrix, then you can back up the digital feed!",
+          "Position_Spanish__c": "Dynamic Infrastructure Developer",
+          "Description_Spanish__c": "Principal Quality Planner",
+          "Location__c": "Grahambury",
+          "Location_Spanish__c": "West Nettie"
+        }
+      ],
+    "carouselImages" : [
+        {
+          "Id": "b5518548-5f42-449a-b1ac-c99dfb9828c2",
+          "Active__c": false,
+          "CreatedById": "cb572390-6fab-4f33-8cea-eb2162a42f98",
+          "Description__c": "",
+          "Description_Spanish__c": "The ADP firewall is down, input the mobile program so we can input the SQL circuit!",
+          "Image_ID__c": "3af1f3ca-9d85-42df-bdea-8bc46ff8cbf0",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKjOeQAL",
+          "LastModifiedById": "2db07e76-9b8d-4914-a943-93908174df51",
+          "Link__c": "http://reta.com",
+          "Link_Title__c": "https://will.name",
+          "OwnerId": "ceb0b77d-0010-4f15-b91c-2596a2cd24bb",
+          "Title__c": "Accelerate your Salesforce Innovation with Ennube",
+          "Title_Spanish__c": "Global Markets Officer",
+          "Name": "revolutionary"
+        }
+      ],
+    "caseStudiesEntries" : [
+        {
+          "Id": "21ff47e5-793b-4ba2-ab53-198e70e3ff08",
+          "Title__c": "How Access Information Management is Becoming More Accessible to Customers",
+          "Title_Spanish__c": "Dynamic Optimization Assistant",
+          "Description__c": "The fastest growing information management provider in the world, Access is dedicated to delivering the best customer experience. Access enables their clients to better manage their information, control their risks and transform their businesses.",
+          "Description_Spanish__c": "We need to synthesize the cross-platform SMTP pixel!",
+          "Image_Id__c": "1cebe0e4-8d88-4a54-9326-ffb94b52f14f",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MM9aaQAD",
+          "Executive_Summary__c": "\n    <div class=\"section-title\">\n        <p style=\"text-align: center;\"></p>\n        <p><b><u>Client’s Challenge</u></b></p>\n        <p>To centralize services for a consistent and timely experience for clients to efficiently handle a large number of cases per day.</p>\n        <p><br></p>\n        <p><b><u>Ennube’s Solution</u></b></p>\n        <p>Deploy Salesforce Service Cloud and centralized workflow.</p>\n        <p><br></p>\n        <p><b><u>Business Impact</u></b></p>\n        <p>        The company can now monitor all cases consistently across branches.</p>\n    </div>\n",
+          "Executive_Summary_Spanish__c": "We need to copy the open-source SDD system!",
+          "Executive_Summary_Full__c": "\n<div class=\"section-title\">\n   <p style=\"text-align: center;\"></p>\n   <p><b><u>Client’s Challenge</u></b></p>\n   <p>To centralize services for a consistent and timely experience for clients to efficiently handle a large number of cases per day:</p>\n   <p> -Streamline case resolution process</p>\n   <p> -Consolidate cases from each branch into one location</p>\n   <p><br></p>\n   <p><b><u>Ennube’s Solution</u></b></p>\n   <p>Deploy Salesforce Service Cloud and centralized workflow by:</p>\n   <p> -Implementing omnichannel and custom escalation rules to assign cases in the most efficient way possible</p>\n   <p> -Addressing centralization problems through email-to-case routing that sends cases from separate branches to one common email</p>\n   <p> -Building custom omni queues page to allow managers quick access to all queues</p>\n   <p><br></p>\n   <p><b><u>Business Impact</u></b></p>\n   <p> -The company can now monitor all cases consistently across branches</p>\n   <p> -They can manage cases quickly by region as opposed to historically assigning cases individually by branch and has the tools it needs to ensure timely customer service</p>\n   <p> -It now has very specific routing to ensure a consistent experience for all customers, especially for larger, national clients</p>\n</div>\n"
+        },
+        {
+          "Id": "4f7fe755-da72-491e-84c5-4f43e9f9a776",
+          "Title__c": "Kagome FileSync Custom Integration Case Study",
+          "Title_Spanish__c": "Customer Solutions Specialist",
+          "Description__c": "Kagome USA is a major manufacturer of tomato-based sauces for the foodservice industry and international restaurant chains. Kagome’s multinational suppliers rely on satisfactory product delivery and strong business relationship.",
+          "Description_Spanish__c": "parsing the bus won't do anything, we need to navigate the optical USB firewall!",
+          "Image_Id__c": "9f61a804-703a-4378-8361-71824b929736",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I000008pCxr",
+          "Executive_Summary__c": "\n        <div class=\"section-title\">\n   <p style=\"text-align: center;\"></p>\n   <p><b><u>Client’s Challenge</u></b></p>\n   <p>Operating integration system was creating “gaps” in the data, as it was failing from being integrated.</p>\n   <p><br></p>\n   <p><b><u>Ennube’s Solution</u></b></p>\n   <p>Utilizing Kagome’s existing technology stack to create a satisfactory integration service through a data FileSync</p>\n   <p><br></p>\n   <p><b><u>Business Impact</u></b></p>\n   <p>With FileSync, Kagome has regained trust in their Salesforce.com information.</p>\n</div>\n        ",
+          "Executive_Summary_Spanish__c": "I'll quantify the multi-byte GB hard drive, that should system the SQL driver!",
+          "Executive_Summary_Full__c": "\n        <div class=\"section-title\"><p style=\"text-align: center;\"></p><p><b><u>Client’s Challenge</u></b></p><p>Operating integration system was creating “gaps” in the data, as it was failing from being integrated</p><p> -To rely on Kagome’s Salesforce Database</p><p><br></p><p><b><u>Ennube’s Solution</u></b></p><p>Reach Kagome’s server by:</p><p> -Utilizing Kagome’s existing technology stack to create a satisfactory integration service through a data FileSync</p><p><br></p><p><b><u>Business Impact</u></b></p><p> -With FileSync, Kagome has regained trust in their Salesforce.com information</p>\n </div>\n        "
+        }
+      ],
+    "cloudTalkImages" : [
+        {
+          "Id": "ec524b77-bfbc-4f4e-9a3a-d2877f64036a",
+          "Active__c": false,
+          "CreatedById": "7551f6bf-0201-4f7e-8ae9-0910d9e60068",
+          "Description__c": "",
+          "Description_Spanish__c": "The ADP microchip is down, parse the back-end monitor so we can quantify the SMTP protocol!",
+          "Image_ID__c": "7b4d808d-9d7d-4081-90d2-ae00814d4f37",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKjOeQAL",
+          "LastModifiedById": "783b1487-d3c3-4bfd-b413-b613bb1b6c18",
+          "Link__c": "https://delaney.org",
+          "Link_Title__c": "http://norris.com",
+          "OwnerId": "4bf51c6c-dd8a-4ecd-8e60-c62181e0ff40",
+          "Title__c": "Accelerate your Salesforce Innovation with Ennube",
+          "Title_Spanish__c": "Internal Infrastructure Director",
+          "Name": "neural"
+        }
+      ],
+    "customers" : [
+        {
+          "Id": "b8ad08fd-040a-4435-828d-bf92ea53538e",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKqfVQAT"
+        },
+        {
+          "Id": "9970739b-436b-460b-b44e-89c777b91063",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKqfaQAD"
+        },
+        {
+          "Id": "e2d2ff94-50e0-4022-8f9c-d831e0c2b2bb",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKqffQAD"
+        },
+        {
+          "Id": "430c3f8a-dcdd-4a27-ae27-afe7aea38834",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKqfgQAD"
+        },
+        {
+          "Id": "f8feb398-fb24-4ca4-a4b3-cef9a55f9285",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKqfkQAD"
+        },
+        {
+          "Id": "a80da38f-9344-4829-8b73-bd5a4bc59266",
+          "Image_URL__c": "https://www.ennube.solutions/sfc/servlet.shepherd/version/download/0681I00000MKqfpQAD"
+        }
+      ],
+    "ourPracticesEntries" : [
+        {
+          "Id": "54bb8021-73ae-4d05-87af-53a9f378750d",
+          "Title__c": "Dynamic Usability Planner",
+          "Title_Spanish__c": "Dynamic Intranet Director",
+          "Description__c": "You can't bypass the hard drive without navigating the auxiliary COM system!",
+          "Description_Spanish__c": "Try to copy the RSS capacitor, maybe it will calculate the haptic port!",
+          "Image_Id__c": "6556d538-09a7-4763-b3d5-473a9a5bba7e",
+          "Image_URL__c": "http://placeimg.com/640/480?random:734",
+          "Executive_Summary__c": "copying the firewall won't do anything, we need to transmit the 1080p COM interface!",
+          "Executive_Summary_Spanish__c": "The SDD system is down, generate the bluetooth feed so we can reboot the GB matrix!"
+        },
+        {
+          "Id": "52b44543-99d3-4963-9951-4fcd421bb0a0",
+          "Title__c": "Chief Directives Associate",
+          "Title_Spanish__c": "Legacy Data Analyst",
+          "Description__c": "I'll parse the wireless AGP alarm, that should driver the HDD bus!",
+          "Description_Spanish__c": "connecting the port won't do anything, we need to connect the back-end SSL sensor!",
+          "Image_Id__c": "4056ce5d-b6b8-4670-be48-54b65d20434f",
+          "Image_URL__c": "http://placeimg.com/640/480?random:217",
+          "Executive_Summary__c": "We need to reboot the bluetooth JSON pixel!",
+          "Executive_Summary_Spanish__c": "The USB transmitter is down, quantify the digital pixel so we can compress the GB sensor!"
+        },
+        {
+          "Id": "5c59c9cb-7d0d-43f0-8271-0074a0d594cc",
+          "Title__c": "District Creative Designer",
+          "Title_Spanish__c": "Lead Assurance Officer",
+          "Description__c": "You can't navigate the program without programming the 1080p FTP alarm!",
+          "Description_Spanish__c": "We need to synthesize the primary ADP transmitter!",
+          "Image_Id__c": "fe98d243-6bb6-43b7-8f3c-d7f868f03431",
+          "Image_URL__c": "http://placeimg.com/640/480?random:969",
+          "Executive_Summary__c": "Use the multi-byte SMS sensor, then you can copy the 1080p interface!",
+          "Executive_Summary_Spanish__c": "Use the neural ADP circuit, then you can reboot the bluetooth bandwidth!"
+        },
+        {
+          "Id": "04c1f366-d5ec-448b-a5ac-7a4e61b0bc00",
+          "Title__c": "Global Implementation Architect",
+          "Title_Spanish__c": "National Security Specialist",
+          "Description__c": "If we reboot the array, we can get to the AI firewall through the multi-byte GB monitor!",
+          "Description_Spanish__c": "Try to copy the XSS bandwidth, maybe it will program the auxiliary sensor!",
+          "Image_Id__c": "a12cfdfb-71b2-461d-91ca-0575d617668c",
+          "Image_URL__c": "http://placeimg.com/640/480?random:348",
+          "Executive_Summary__c": "transmitting the matrix won't do anything, we need to input the primary FTP program!",
+          "Executive_Summary_Spanish__c": "The SQL driver is down, connect the bluetooth bandwidth so we can bypass the EXE firewall!"
+        }
+      ],
+    "socialNetworks" : [
+        {
+          "Id": "fc0378bc-2c3d-4cef-88c7-6a660a2636bc",
+          "Value__c": "Koruna",
+          "Type__c": "quantify",
+          "Class__c": "Mount"
+        },
+        {
+          "Id": "1ddb7567-4ff0-4f94-ad33-88fc5d4ac9b3",
+          "Value__c": "Centralized",
+          "Type__c": "Indiana",
+          "Class__c": "Tajikistan"
+        },
+        {
+          "Id": "aae98d4b-4870-458b-bbba-8c5c5b741018",
+          "Value__c": "Practical",
+          "Type__c": "Home",
+          "Class__c": "cross-platform"
+        }
+      ],
+    "team" : [
+        {
+          "Id": "6d9922c2-41f5-49ce-bd2a-3409ab5448db",
+          "Biography__c": "Alex is a co-founder of Ennube Solutions and a California native, he has over a decade of consulting experience on innovation and cloud technology systems working with the best companies in the world. ",
+          "Name": "Alex Garcia",
+          "Position__c": "CEO",
+          "Image_URL__c": "https://via.placeholder.com/300\n\nC/O https://placeholder.com/"
+        },
+        {
+          "Id": "be26d148-8898-45d3-9d99-5d9837286091",
+          "Biography__c": "Jenny is a co-founder of Ennube Solutions and President of Ennube’s Ecuadorian branch. She is passionate about business and people operations. ",
+          "Name": "Jenny Ortiz",
+          "Position__c": "COO",
+          "Image_URL__c": "https://via.placeholder.com/300\n\nC/O https://placeholder.com/"
+        },
+        {
+          "Id": "b4db699f-0b7d-445b-aa54-f50d8d342e68",
+          "Biography__c": "Giancarlo has 10 years of experience as an enterprise software developer. With his broad knowledge of Java and enterprise applications, he rapidly became a Salesforce certified developer. After being hired as the first Ennube developer, he helped define the company's development process, and trained and led the team becoming Ennube's CTO. ",
+          "Name": "Giancarlo Pacini",
+          "Position__c": "CTO",
+          "Image_URL__c": "https://via.placeholder.com/300\n\nC/O https://placeholder.com/"
+        },
+        {
+          "Id": "2d6dbcab-3c5e-43d0-b926-11cb2cd5e902",
+          "Biography__c": "Deserunt soluta alias hic aut. Ipsa impedit praesentium consectetur veritatis. Et dolores nemo. Esse delectus et.",
+          "Name": "Anthony Menjivar",
+          "Position__c": "Manager",
+          "Image_URL__c": "https://via.placeholder.com/300\n\nC/O https://placeholder.com/"
+        }
+      ]
+}
